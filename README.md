@@ -1,10 +1,6 @@
 <div align="center">
 
 # Hi there, I'm Tristan Jay G. Bon 👋
-
-**Software Developer | BS in Information Technology**
-
-Code. Build. Improve. Repeat.
 Building responsive, scalable web applications. Open to collaboration and new opportunities.
 
 [![GitHub](https://img.shields.io/badge/GitHub-tristanbon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tristanbon)
@@ -15,7 +11,6 @@ Building responsive, scalable web applications. Open to collaboration and new op
 
 ## About Me
 
-- 🎓 Bachelor of Science in Information Technology
 - 💻 Focused on **desktop application development** and **web-based business systems**
 - 🍽️ Recently built a **Restaurant POS System** (CodeIgniter 4) and an **Ordering & Billing System** (C# WinForms)
 - 🌱 Currently sharpening my skills in full-stack development and database design
