@@ -1,6 +1,9 @@
 <div align="center">
 
 # Hi there, I'm Tristan Jay G. Bon 👋
+
+
+Code. Build. Improve. Repeat.
 Building responsive, scalable web applications. Open to collaboration and new opportunities.
 
 [![GitHub](https://img.shields.io/badge/GitHub-tristanbon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tristanbon)
@@ -65,17 +68,6 @@ Building responsive, scalable web applications. Open to collaboration and new op
 |---|---|---|
 | 🧾 [**ordering-billing-system-winforms**](https://github.com/tristanbon/ordering-billing-system-winforms) | Desktop restaurant management app with POS, billing, inventory, and reporting | C#, .NET Framework, WinForms, MySQL |
 | 🍽️ [**restaurant-pos-showcase**](https://github.com/tristanbon/restaurant-pos-showcase) | Web-based POS with table management, checkout, and payment processing | CodeIgniter 4, Bootstrap 5, jQuery, MySQL |
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tristanbon&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tristanbon&layout=compact)
-
-</div>
 
 <br>
 
